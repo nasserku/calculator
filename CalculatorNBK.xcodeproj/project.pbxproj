@@ -14,6 +14,7 @@
 		564A65092BA81EF500E02B7A /* CalculatorNBKTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 564A65082BA81EF500E02B7A /* CalculatorNBKTests.swift */; };
 		564A65132BA81EF500E02B7A /* CalculatorNBKUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 564A65122BA81EF500E02B7A /* CalculatorNBKUITests.swift */; };
 		564A65152BA81EF500E02B7A /* CalculatorNBKUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 564A65142BA81EF500E02B7A /* CalculatorNBKUITestsLaunchTests.swift */; };
+		564A65222BA81FE700E02B7A /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 564A65212BA81FE700E02B7A /* Storyboard.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		564A650E2BA81EF500E02B7A /* CalculatorNBKUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalculatorNBKUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		564A65122BA81EF500E02B7A /* CalculatorNBKUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorNBKUITests.swift; sourceTree = "<group>"; };
 		564A65142BA81EF500E02B7A /* CalculatorNBKUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorNBKUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		564A65212BA81FE700E02B7A /* Storyboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 			isa = PBXGroup;
 			children = (
 				564A64F72BA81EF300E02B7A /* CalculatorNBKApp.swift */,
+				564A65212BA81FE700E02B7A /* Storyboard.storyboard */,
 				564A64F92BA81EF300E02B7A /* ContentView.swift */,
 				564A64FB2BA81EF500E02B7A /* Assets.xcassets */,
 				564A64FD2BA81EF500E02B7A /* Preview Content */,
@@ -233,6 +236,7 @@
 			files = (
 				564A64FF2BA81EF500E02B7A /* Preview Assets.xcassets in Resources */,
 				564A64FC2BA81EF500E02B7A /* Assets.xcassets in Resources */,
+				564A65222BA81FE700E02B7A /* Storyboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
